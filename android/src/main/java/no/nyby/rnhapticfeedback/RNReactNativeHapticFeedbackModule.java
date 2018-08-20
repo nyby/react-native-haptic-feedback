@@ -1,5 +1,4 @@
-
-package com.reactlibrary;
+package no.nyby.rnhapticfeedback;
 
 import android.os.Vibrator;
 import android.content.Context;
